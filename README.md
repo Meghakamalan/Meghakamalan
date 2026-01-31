@@ -1,5 +1,5 @@
 
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 
 Megha Kamalan
 
