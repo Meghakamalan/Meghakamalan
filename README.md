@@ -1,38 +1,26 @@
-# Hi 👋, I'm Megha
+Megha Kamalan
 
-🎓 Student at Humber College 
-📍Toronto, Canada
+I’m a Full Stack Web Development student at Humber College,Toronto, Canada. Currently building a strong foundation in both front-end and back-end technologies. I enjoy learning by creating projects, improving my problem-solving skills, and growing as a developer step by step.
 
----
+About Me 
 
-## 👩‍💻 About Me
-
-- I’m currently learning HTML, CSS, JavaScript
+- I’m currently learning HTML, CSS, JavaScript,database 
 - Interested in full stack development
 - I enjoy learning by building small projects
 
----
-
-## 🛠️ Skills
-
+ Skills
 - HTML5  
-- CSS 
-- JavaScript (Beginner)  
+- CSS3  
+- JavaScript (Beginner)
+- SQL 
 - Git & GitHub  
 
----
 
-## 🔗 Connect With Me
+Connect With Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/megha-kamalan-65ab013a6/ 
 - 🐙 GitHub: https://github.com/your-username  
 - 🌐 Portfolio: Coming soon
-
----
-
-## ✨ Goals
-
-- Improve my skills
   
 
 
