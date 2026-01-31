@@ -22,7 +22,7 @@ About Me
 Connect With Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/megha-kamalan-65ab013a6/ 
-- 🐙 GitHub: https://github.com/your-username  
+- 🐙 GitHub: https://github.com/Meghakamalan  
 - 🌐 Portfolio: Coming soon
   
 
