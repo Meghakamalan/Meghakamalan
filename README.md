@@ -1,3 +1,6 @@
+
+![Banner](./banner.png)
+
 Megha Kamalan
 
 I’m a Full Stack Web Development student at Humber College,Toronto, Canada. Currently building a strong foundation in both front-end and back-end technologies. I enjoy learning by creating projects, improving my problem-solving skills, and growing as a developer step by step.
