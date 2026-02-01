@@ -23,7 +23,7 @@ Connect With Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/megha-kamalan-65ab013a6/ 
 - 🐙 GitHub: https://github.com/Meghakamalan  
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: https://github.com/Meghakamalan/markdown-portfolio
   
 
 
